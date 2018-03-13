@@ -2,7 +2,6 @@
 return array (
   'modules' => 
   array (
-    'Betalingsmethodecheck_Betalingsmethode' => 1,
     'Magento_Store' => 1,
     'Magento_Directory' => 1,
     'Magento_AdvancedPricingImportExport' => 1,
