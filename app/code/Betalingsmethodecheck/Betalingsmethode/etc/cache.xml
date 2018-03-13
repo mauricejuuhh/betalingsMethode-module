@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Cache/etc/cache.xsd">
-	<type instance="Betalingsmethodecheck\Betalingsmethode\Model\Cache\Betalingsmethodeee" name="betalingsmethodeee_cache_tag" translate="label,description">
-		<label>betalingsmethodeee</label>
-		<description>betalingsmethodee kiezen</description>
-	</type>
-</config>
