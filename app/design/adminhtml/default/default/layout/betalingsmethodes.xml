@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+  <betalingsmethodes_adminhtml_betalingsmethodesbackend_index>
+	<reference name="content">
+	  <block type="betalingsmethodes/adminhtml_betalingsmethodesbackend" name="betalingsmethodesbackend" template="betalingsmethodes/betalingsmethodesbackend.phtml"/>
+	</reference>
+  </betalingsmethodes_adminhtml_betalingsmethodesbackend_index>
+</layout>
