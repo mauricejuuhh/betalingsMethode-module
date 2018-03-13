@@ -1,0 +1,21 @@
+{
+    "name": "betalingsmethodecheck/module-betalingsmethode",
+    "description": "invoeren van betalingsmethode",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Betalingsmethodecheck\\Betalingsmethode\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
