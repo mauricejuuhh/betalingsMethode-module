@@ -1,0 +1,21 @@
+{
+    "name": "vendorname/module-betalingsmethodechecklist",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "VendorName\\BetalingsMethodeChecklist\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
